@@ -15,22 +15,22 @@ body {
     background: #ffffff;
 }
 
-/* completa tu codigo aqui */
+
 .celeste {
-	background-color:#0C86DC;
-	color:#0C86DC;
+	background-color:#67C7E2;
+	color:#67C7E2;
 }
 .verde {
-	background-color:#0AC388;
-	color:#0AC388;
+	background-color:#5FFEF7;
+	color:#5FFEF7;
 }
 .naranjo {
-	background-color:#F79225;
-	color:#F79225;
+	background-color:#FFBD82;
+	color:#FFBD82;
 }
 .rosa {
-	background-color:#E966FC; 
-	color:#E966FC;
+	background-color:#FFBBDD; 
+	color:#FFBBDD;
 }
 
 .texto {
